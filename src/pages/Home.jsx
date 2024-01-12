@@ -11,7 +11,8 @@ import motors from '../data/moteurs.json'
 import "./home.css"
 
 export function Home() {
-
+    const title = linksLinux[0].title
+    console.log("title", title)
     return (
         <>
             <NavLinks links={links} />
