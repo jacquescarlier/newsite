@@ -14,7 +14,7 @@ export function Home() {
     const title = linksLinux[0].title
     console.log("title", title)
     return (
-        <>
+        <div className="container-home">
             <NavLinks links={links} />
             <div className="linksSites">
                 <ContainerLink classsName="linux" links={linksLinux} />
@@ -23,6 +23,6 @@ export function Home() {
             </div>
             <SitesUtiles datasSites={datasSites} />
             <Moteurs links={motors} />
-        </>
+        </div>
     )
 }

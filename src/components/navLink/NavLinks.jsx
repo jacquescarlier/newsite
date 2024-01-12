@@ -8,19 +8,18 @@ export function NavLinks({ links }) {
     <>
       <nav className="navbar">
         <div className="navbar-brand">
-
-
-          <Typewriter
-
-            onInit={(typewriter) => {
-              typewriter
-                .typeString("This site is ")
-                .pauseFor(1000)
-                .deleteAll()
-                .typeString("4Ne1")
-                .start();
-            }}
-          />
+          <h1>
+            <Typewriter
+              onInit={(typewriter) => {
+                typewriter
+                  .typeString("This site is ")
+                  .pauseFor(1000)
+                  .deleteAll()
+                  .typeString("4Ne1")
+                  .start();
+              }}
+            />
+          </h1>
         </div>
         <div className="navbar-links">
           {links.map(link => (
