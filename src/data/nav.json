@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1111",
+        "title": "Achats et Infos",
+        "url": "/achatinfo.html"
+    },
+    {
+        "id": "2222",
+        "title": "Sites utiles",
+        "url": "/achat.html"
+    },
+    {
+        "id": "33333",
+        "title": "Moteur de recherche",
+        "url": "/ach.html"
+    }
+]

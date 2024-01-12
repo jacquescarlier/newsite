@@ -1,0 +1,176 @@
+{
+"Links": [
+    {
+        "id": "1111",
+        "nomdelapage": "Achats et Infos",
+        "link": "html/achatinfo.html"
+    },
+    {
+        "id": "2222",
+        "nomdelapage": "Sites utiles",
+        "link": "html/achatinfo.html"
+    },
+    {
+        "id": "33333",
+        "nomdelapage": "Moteur de recherche",
+        "link": "html/achatinfo.html"
+    } 
+],
+"linux": [
+    {"id": "linux001",
+    "nomdulien": "Distrowatch",
+    "link": "https://distrowatch.com/"
+    },
+    {"id": "linux002",
+    "nomdulien": "Blog desde Linux",
+    "link": "https://blog.desdelinux.net/fr/"
+    },
+    {"id": "linux003",
+    "nomdulien": "optimiser ubuntu",
+    "link": "https://www.notarobot.fr/2014/07/16/optimiser-ubuntulinux-mint-pour-un-ssd/"
+    },
+    {"id": "linux004",
+    "nomdulien": "Commandes fondamentales",
+    "link": "https://juliend.github.io/linux-cheatsheet/"
+    },
+    {"id": "linux005",
+    "nomdulien": "Optimiser Linux avec Stacer",
+    "link": "html/stacer.html"
+    }
+],
+"images":[
+    {
+        "id": "images001",
+        "nomdulien": "Unsplah",
+        "link": "https://unsplash.com/fr"
+    },
+    {
+        "id": "images002",
+        "nomdulien": "Wallpapers",
+        "link": "https://wallpapers.com/"
+    }
+],
+"html":[
+    {
+        "id": "html0001",
+        "nomdulien": "MDN",
+        "link": "https://developer.mozilla.org/fr/"
+    },
+    {
+        "id": "html0002",
+        "nomdulien": "W3docs",
+        "link": "https://fr.w3docs.com/"
+    },
+    {
+        "id": "html0003",
+        "nomdulien": "Zone CSS",
+        "link": "https://www.zonecss.fr/"
+    },
+    {
+        "id": "html0004",
+        "nomdulien": "Grafikart",
+        "link": "https://grafikart.fr/"
+    },
+    {
+        "id": "html0005",
+        "nomdulien": "Pierre Giraud",
+        "link": "https://www.pierre-giraud.com/"
+    }
+],
+"sitesUtiles":[
+    {
+        "id": "su0001",
+        "nomdulien": "Youtube",
+        "link": "https://www.youtube.com/",
+        "description": "Profitez des vidéos et de la musique que vous aimez, mettez en ligne des contenus originaux, et partagez-les avec vos amis, vos proches et le monde entier."
+    },
+    {
+        "id": "su0002",
+        "nomdulien": "Les numériques",
+        "link": "https://www.lesnumeriques.com/",
+        "description": "Retrouvez toute l'actualité web et high tech, les tests de nos experts, nos guides d'achat et les bons plans du moment de l'univers numérique."
+    },
+    {
+        "id": "su0003",
+        "nomdulien": "Presse-citron",
+        "link": "https://www.presse-citron.net/",
+        "description": "Presse-citron est le site de référence sur l'actu du digital, des nouvelles technologies, du mobile et des réseaux sociaux."
+    },
+    {
+        "id": "su0004",
+        "nomdulien": "Frandroid",
+        "link": "https://www.frandroid.com/",
+        "description": "Frandroid est un média dédié aux nouvelles technologies, retrouvez des guides d'achat, des tests, de l'actualité, des vidéos, des reportages et une ..."
+    },
+    {
+        "id": "su0005",
+        "nomdulien": "Next Inpact",
+        "link": "https://www.nextinpact.com/",
+        "description": "Next INpact (anciennement PC INpact) est un site d'actualité français fondé le 5 mai 2003 par Christophe Neau. Il porte principalement sur l'informatique, ..."
+    },
+    {
+        "id": "su0006",
+        "nomdulien": "Tech Runch",
+        "link": "https://techcrunch.com/",
+        "description":"TechCrunch • Reporting on the business of technology, startups, venture capital funding, and Silicon Valley."
+    }
+],
+"moteursderecherche": [
+    {
+        "id": "mdr0001",
+        "nomdulien": "GOOGLe",
+        "link": "https://www.google.fr"
+    },
+    {
+        "id": "mdr0002",
+        "nomdulien": "QWANT",
+        "link": "https://www.qwant.com/?l=fr"
+    },
+    {
+        "id": "mdr0003",
+        "nomdulien": "DUCKDUCKGO",
+        "link": "https://duckduckgo.com/?utm_source=bdmtools&utm_medium=siteweb&utm_campaign=duckduckgo"
+    },
+    {
+        "id": "mdr0004",
+        "nomdulien": "BING",
+        "link": "https://www.bing.com/"
+    },
+    {
+        "id": "mdr0005",
+        "nomdulien": "STARTPAGE",
+        "link": "https://www.startpage.com/"
+    },
+    {
+        "id": "mdr0006",
+        "nomdulien": "SEARX",
+        "link": "https://searx.thegpm.org/"
+    }
+],
+"reseaux": [
+    {
+        "id": "reseaux0001",
+        "nomdulien": "Discord",
+        "link": "https://discord.com",
+        "logo": "../assets/logos/001-discorde.png"
+    },
+    {
+        "id": "reseaux0002",
+        "nomdulien": "Facebook",
+        "link": "https://fr-fr.facebook.com/",
+        "logo": "../assets/logos/003-facebook.png"
+    },
+    {
+        "id": "reseaux0003",
+        "nomdulien": "Instagram",
+        "link": "https://www.instagram.com/",
+        "logo": "../assets/logos/002-instagram.png"
+    },
+    {
+        "id": "reseaux0004",
+        "nomdulien": "X",
+        "link": "https://twitter.com/?lang=fr",
+        "logo": "../assets/logos/004-twitter.png"
+    }
+]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "mdr0001",
+        "title": "GOOGLE",
+        "url": "https://www.google.fr"
+    },
+    {
+        "id": "mdr0002",
+        "title": "QWANT",
+        "url": "https://www.qwant.com/?l=fr"
+    },
+    {
+        "id": "mdr0003",
+        "title": "DUCKDUCKGO",
+        "url": "https://duckduckgo.com/?utm_source=bdmtools&utm_medium=siteweb&utm_campaign=duckduckgo"
+    },
+    {
+        "id": "mdr0004",
+        "title": "BING",
+        "url": "https://www.bing.com/"
+    },
+    {
+        "id": "mdr0005",
+        "title": "STARTPAGE",
+        "url": "https://www.startpage.com/"
+    },
+    {
+        "id": "mdr0006",
+        "title": "SEARX",
+        "url": "https://searx.thegpm.org/"
+    }
+]

@@ -1,0 +1,32 @@
+.utils {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    gap: 1.5em;
+}
+h2 {
+    margin-left: 1em;
+    margin-top: 2em;
+    font-size: 2em;
+    font-style: italic;
+}
+.utilsBox {
+    height: auto;
+    width: 30%;
+    display: flex;
+    flex-flow: row wrap;
+    border: solid #FFF 2px;
+    border-radius: 10px;
+    padding: 0.5em ;
+    box-shadow: 10px 10px 10px;
+    background-color: #2f4f4f;
+}
+.utilsBox a{
+    color: yellow;
+    text-align: center;
+}
+.utilsBox a p {
+    color: #FFF;
+    font-size: 1.2em;
+}

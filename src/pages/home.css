@@ -1,0 +1,46 @@
+.linksSites {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  gap: 2em;
+}
+.links {
+    background-color: #C1c1c3;
+}
+.linksSites .links {
+  height: 250px;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  border: solid #fff 2px;
+  border-radius: 10px;
+  padding: 1em 0.5em;
+  box-shadow: 10px 10px 10px;
+}
+.linksSites .links .linkBox {
+  width: 100%;
+  text-align: center;
+}
+.linksSites .links .linkBox a {
+  color: #191970;
+  width: 30%;
+  font-size: 1.2em;
+}
+.motors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 3em;
+  font-size: 1.4em;
+  gap: 1em;
+}
+.motors .motorBox {
+  background-color: gray;
+  padding: 0.25em 0.8em;
+  border-radius: 0.8em;
+  box-shadow: 5px 5px 5px;
+}
+.motors .motorBox a {
+  color: #000;
+}

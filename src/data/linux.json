@@ -1,0 +1,27 @@
+
+[
+    {"id": "linux000",
+    "title": "LINUX",
+    "img": "../../assets/images/linux_site.jpg"
+    },
+    {"id": "linux001",
+    "title": "Distrowatch",
+    "url": "https://distrowatch.com/"
+    },
+    {"id": "linux002",
+    "title": "Blog desde Linux",
+    "url": "https://blog.desdelinux.net/fr/"
+    },
+    {"id": "linux003",
+    "title": "optimiser ubuntu",
+    "url": "https://www.notarobot.fr/2014/07/16/optimiser-ubuntulinux-mint-pour-un-ssd/"
+    },
+    {"id": "linux004",
+    "title": "Commandes fondamentales",
+    "url": "https://juliend.github.io/linux-cheatsheet/"
+    },
+    {"id": "linux005",
+    "title": "Optimiser Linux avec Stacer",
+    "url": "html/stacer.html"
+    }
+]

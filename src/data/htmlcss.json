@@ -1,0 +1,31 @@
+[
+    {
+        "id": "html0000",
+        "title": "HTML & CSS"
+    },
+    {
+        "id": "html0001",
+        "title": "MDN",
+        "url": "https://developer.mozilla.org/fr/"
+    },
+    {
+        "id": "html0002",
+        "title": "W3docs",
+        "url": "https://fr.w3docs.com/"
+    },
+    {
+        "id": "html0003",
+        "title": "Zone CSS",
+        "url": "https://www.zonecss.fr/"
+    },
+    {
+        "id": "html0004",
+        "title": "Grafikart",
+        "url": "https://grafikart.fr/"
+    },
+    {
+        "id": "html0005",
+        "title": "Pierre Giraud",
+        "url": "https://www.pierre-giraud.com/"
+    }
+]
