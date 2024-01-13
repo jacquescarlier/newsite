@@ -1,11 +1,12 @@
-import { Home } from "./pages/home"
+import Router from "./components/router/Router"
+
 
 function App() {
 
 
   return (
     <div className="container-general">
-      <Home />
+      <Router />
     </div>
   )
 }
